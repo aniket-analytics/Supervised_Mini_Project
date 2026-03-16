@@ -36,12 +36,3 @@ Each row represents a **California district**, and the dataset includes several 
 | AveOccup | Average house occupancy |
 | Latitude | Latitude coordinate |
 | Longitude | Longitude coordinate |
-
-### Target Variable
-
-**MedHouseVal**
-
-The median house value for California districts.
-
----
-
